@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-reactjs-popup/static/css/main.06e859b2.css",
+    "main.js": "/simple-reactjs-popup/static/js/main.35ab1970.js",
+    "index.html": "/simple-reactjs-popup/index.html",
+    "main.06e859b2.css.map": "/simple-reactjs-popup/static/css/main.06e859b2.css.map",
+    "main.35ab1970.js.map": "/simple-reactjs-popup/static/js/main.35ab1970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e859b2.css",
+    "static/js/main.35ab1970.js"
+  ]
+}
